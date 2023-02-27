@@ -11,7 +11,7 @@ Example WordPress theme layout and additional settings, PSD design to WordPress 
 - Author – input field (single line)
 - Date – calendar pickup
 4. Add 3 of those custom post “Noticias".
-5. Show the 2nd of those custom-posts at page Short-code must have option to set which post would like to visualize (by its ID), if is empty (or not set) should be visualized the latest one. Eg.: [noticias id=”2”]
+5. Show the 2nd of those custom-posts at page Short-code must have option to set which post would like to visualize (by its ID), if is empty (or not set) should be visualized the latest one. Eg.: [noticias id=”100”]
 6. Add options to admin menu for Mostrar todas and Anadir nueva, under Noticias menu.
 7. Add smooth zoom (1.1) effect on hover over three icons (Innovación, Soluciones, Tecnología).
 8. Add decent animations to elements (slides or fades).
@@ -22,9 +22,10 @@ Example WordPress theme layout and additional settings, PSD design to WordPress 
 13. Change image at wp-login to client logo (instead of classic Wordpress logo).
 
 
+
 pueden probar el proyecto en local e ingresar con los siguientes datos
 
-User: weloveweb86
-Password : fdhdfhdhyR&$%Y5rthy
+- User: weloveweb86
+- Password : fdhdfhdhyR&$%Y5rthy
 
 
